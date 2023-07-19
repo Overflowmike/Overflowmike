@@ -26,17 +26,22 @@ I'm currently and always upscalling my skills in test automation for effectivene
 
 >	Agile Methodology (Scrum)
 
->	API Test using Swagger or Postman ![image](https://github.com/Overflowmike/Overflowmike/assets/62624167/6f7fa89c-6c58-4ef1-9623-625e0939d336)
-
+>	API Test 
 
 > Programming Language: Python and JavaScript
 
-> CI/CD: tool use is Jenkins ![image](https://github.com/Overflowmike/Overflowmike/assets/62624167/7175e46d-d68d-4da4-9f0e-b29e12dca334)
+> CI/CD
 
 
+**Tools Used:**
+
+![image](https://github.com/Overflowmike/Overflowmike/assets/62624167/6f7fa89c-6c58-4ef1-9623-625e0939d336), ![image](https://github.com/Overflowmike/Overflowmike/assets/62624167/7175e46d-d68d-4da4-9f0e-b29e12dca334), ![image](https://github.com/Overflowmike/Overflowmike/assets/62624167/ce2e57c3-fe34-4305-8c1a-e90f10dadf2d)
+
+![image](https://github.com/Overflowmike/Overflowmike/assets/62624167/ac1293e6-b5f7-46e1-8b7c-953b1dbf3650), ![image](https://github.com/Overflowmike/Overflowmike/assets/62624167/93dde083-dade-445b-a360-6aee38a095ed), ![image](https://github.com/Overflowmike/Overflowmike/assets/62624167/2d394388-ceca-40c7-bd99-e986b45863e0), ![image](https://github.com/Overflowmike/Overflowmike/assets/62624167/15c0fa5c-1608-44ce-b6b6-8d6b215af4c4)
 
 **Fun Fact**
-⚡ I think I am funny
+
+⚡ I love helping people in my little way
 ⚡ Play any brain tasking game, e.g Chess, adventure, Scarbble.
 
 **Quote**:
